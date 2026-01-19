@@ -5,11 +5,12 @@
 
  # Summary:
 1. Q&A
-Which product to focus on for maximum profit and low repeat?
+   
+ ### Which product to focus on for maximum profit and low repeat?
 
 The product with the highest predicted revenue leakage is from the 'Yogurt B' channel and 'Channel E' region. While it has a relatively high repeat rate, its high sales, average price, and purchase frequency, combined with a lower-than-average purchase recency, suggest a potential profit optimization opportunity.
 
-What are the key drivers behind low repeat rates for that product?
+ ### What are the key drivers behind low repeat rates for that product?
 
 Although the identified product does not have a particularly low repeat rate, the lower-than-average purchase recency, despite higher-than-average sales, average price and purchase frequency, suggests that there could be an issue with customer retention. A deeper investigation is needed to confirm this hypothesis.
 
