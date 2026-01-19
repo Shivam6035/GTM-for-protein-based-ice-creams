@@ -4,7 +4,7 @@
 
 
  # Summary:
-1. Q&A
+### 1. Q&A
    
  ### Which product to focus on for maximum profit and low repeat?
 
@@ -14,7 +14,7 @@ The product with the highest predicted revenue leakage is from the 'Yogurt B' ch
 
 Although the identified product does not have a particularly low repeat rate, the lower-than-average purchase recency, despite higher-than-average sales, average price and purchase frequency, suggests that there could be an issue with customer retention. A deeper investigation is needed to confirm this hypothesis.
 
-2. Data Analysis Key Findings
+### 2. Data Analysis Key Findings
    
 High R-squared Value: The trained RandomForestRegressor model exhibits excellent predictive performance with an R-squared value of 0.986, indicating a strong fit to the data.
 Average Repeat Rate: The average repeat rate across all products is 21.95%.
@@ -22,7 +22,8 @@ Total Revenue Leakage: The total revenue leakage across all products is 3,961,33
 Product with Maximum Predicted Revenue Leakage: The product identified in the 'Yogurt B' channel and 'Channel E' region has the highest predicted revenue leakage. While not necessarily having a low repeat rate, its features warrant further investigation to maximize profit. Notably, it has higher-than-average sales, average price, and purchase frequency, but lower-than-average purchase recency.
 
 
-3. Insights or Next Steps
+### 3. Insights or Next Steps
+
    
 Investigate Purchase Recency: The identified product with maximum predicted revenue leakage has a lower-than-average purchase recency. Conduct a deeper analysis into the factors contributing to this lower recency. Is it due to seasonal effects, customer satisfaction, or competitive pressures?
 Targeted Interventions: Based on the key driver analysis, develop targeted strategies to address the issues highlighted. For example, if customer satisfaction is an issue, consider targeted promotions or loyalty programs to increase customer retention.
