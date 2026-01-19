@@ -32,6 +32,9 @@ Investigate Purchase Recency: The identified product with maximum predicted reve
 
 Targeted Interventions: Based on the key driver analysis, develop targeted strategies to address the issues highlighted. For example, if customer satisfaction is an issue, consider targeted promotions or loyalty programs to increase customer retention.
 
+
+# Key Business insights
+
 <img width="1920" height="1080" alt="ep1" src="https://github.com/user-attachments/assets/bd710fb0-caad-422e-a860-2180e5c9b279" />
 
 <img width="1920" height="1080" alt="ep2" src="https://github.com/user-attachments/assets/b28a778c-8029-4b86-9f6a-7c997cedf348" />
