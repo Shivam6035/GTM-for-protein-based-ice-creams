@@ -17,8 +17,11 @@ Although the identified product does not have a particularly low repeat rate, th
 ### 2. Data Analysis Key Findings
    
 High R-squared Value: The trained RandomForestRegressor model exhibits excellent predictive performance with an R-squared value of 0.986, indicating a strong fit to the data.
+
 Average Repeat Rate: The average repeat rate across all products is 21.95%.
+
 Total Revenue Leakage: The total revenue leakage across all products is 3,961,331.84.
+
 Product with Maximum Predicted Revenue Leakage: The product identified in the 'Yogurt B' channel and 'Channel E' region has the highest predicted revenue leakage. While not necessarily having a low repeat rate, its features warrant further investigation to maximize profit. Notably, it has higher-than-average sales, average price, and purchase frequency, but lower-than-average purchase recency.
 
 
@@ -26,6 +29,7 @@ Product with Maximum Predicted Revenue Leakage: The product identified in the 'Y
 
    
 Investigate Purchase Recency: The identified product with maximum predicted revenue leakage has a lower-than-average purchase recency. Conduct a deeper analysis into the factors contributing to this lower recency. Is it due to seasonal effects, customer satisfaction, or competitive pressures?
+
 Targeted Interventions: Based on the key driver analysis, develop targeted strategies to address the issues highlighted. For example, if customer satisfaction is an issue, consider targeted promotions or loyalty programs to increase customer retention.
 
 <img width="1920" height="1080" alt="ep1" src="https://github.com/user-attachments/assets/bd710fb0-caad-422e-a860-2180e5c9b279" />
